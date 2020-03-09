@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/prasta/pythonProject/django/rest_framework/env/bin/python",
+    "python.linting.enabled": false
+}
